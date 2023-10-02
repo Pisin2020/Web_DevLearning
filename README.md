@@ -2,6 +2,8 @@
 
 Welcome to Learner, a free Bootstrap 4 landing page designed specifically for educational websites. Whether you're running an online course platform, a school website, or a tutoring service, Learner provides a feature-rich and visually appealing foundation to help you engage with your audience effectively.
 
+![Learner Landing Page](link-to-hero-image.jpg)
+
 ## Introduction
 
 Learner is more than just a landing page; it's a comprehensive web solution tailored to the needs of educational institutions and businesses. Packed with a wide range of interactive components and elegant design elements, Learner empowers you to create an exceptional online presence for your educational offerings.
@@ -82,6 +84,10 @@ Learner is more than just a landing page; it's a comprehensive web solution tail
 
 3. Customize the content, styles, and scripts to fit your educational website's needs.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## Credits
 
 - Bootstrap: [https://getbootstrap.com/](https://getbootstrap.com/)
@@ -90,5 +96,7 @@ Learner is more than just a landing page; it's a comprehensive web solution tail
 - Owl Carousel: [https://owlcarousel2.github.io/OwlCarousel2/](https://owlcarousel2.github.io/OwlCarousel2/)
 - Flaticon: [https://www.flaticon.com/](https://www.flaticon.com/)
 - Icomoon: [https://icomoon.io/](https://icomoon.io/)
---
-Enjoy using Learner! And Enhance your experience of learning.
+
+---
+
+Enjoy using Learner! Feel free to contribute and make it even better.
