@@ -1,64 +1,94 @@
 # Learner - Free Bootstrap 4 Educational Landing Page
 
-Welcome to Learner, a free Bootstrap 4 landing page designed specifically for educational websites. Whether you're running an online course platform, a school website, or a tutoring service, Learner provides a feature-rich and visually appealing foundation to help you engage with your audience effectively.
-
-![Learner Landing Page](link-to-hero-image.jpg)
+![Learner Logo](images/learner-logo.png)
 
 ## Introduction
 
-Learner is more than just a landing page; it's a comprehensive web solution tailored to the needs of educational institutions and businesses. Packed with a wide range of interactive components and elegant design elements, Learner empowers you to create an exceptional online presence for your educational offerings.
+Welcome to Learner, a free Bootstrap 4 landing page designed exclusively for educational websites. Whether you're managing an online course platform, a school website, or a tutoring service, Learner offers a comprehensive and visually appealing solution to engage your audience effectively.
+
+![Learner Landing Page](images/learner-landing.jpg)
+
+Learner goes beyond being just a landing page; it's a versatile web solution tailored to the needs of educational institutions and businesses. It comes equipped with a diverse range of interactive components and elegant design elements, empowering you to create an exceptional online presence for your educational offerings.
+
+![Interactive Components](images/learner-components.jpg)
 
 ## Key Features
 
-- **Bootstrap 4:** Built using the latest version of Bootstrap for a responsive and modern design.
+- **Bootstrap 4:** Utilize the latest version of Bootstrap for a responsive and modern design.
 
-- **HTML5 & CSS3:** Utilizes the latest web technologies to ensure a robust and efficient website.
+- **HTML5 & CSS3:** Harness the latest web technologies for a robust and efficient website.
 
-- **On-hover Effect:** Engage your visitors with interactive on-hover effects.
+- **Engaging Hover Effects:** Captivate your visitors with interactive on-hover effects.
 
-- **Hero Header:** A stunning hero section to capture the attention of your audience.
+- **Striking Hero Header:** Make a memorable first impression with a stunning hero section.
 
-- **Hero Image:** A visually appealing hero image to make a strong first impression.
+- **Visually Appealing Hero Image:** Create a strong visual impact with a captivating hero image.
 
-- **Fun Fact Counter:** Showcase interesting statistics with a fun fact counter.
+![Hero Section](images/hero-section.jpg)
 
-- **Accordions:** Display content in collapsible accordion sections.
+- **Fun Fact Counter:** Showcase captivating statistics with a fun fact counter.
 
-- **Product Cards:** Highlight your educational products and offerings.
+![Fun Fact Counter](images/fun-fact-counter.jpg)
 
-- **Modal Video Player:** Engage users with videos in a modal player.
+- **Accordion Sections:** Present content in collapsible accordion sections.
 
-- **Pricing Cards:** Showcase your pricing plans in an attractive format.
+![Accordion Sections](images/accordion-sections.jpg)
 
-- **Testimonial Carousel:** Display customer testimonials in a carousel.
+- **Product Showcase Cards:** Highlight your educational products and offerings with elegant cards.
 
-- **Gallery:** Showcase images and media in a beautiful gallery.
+![Product Cards](images/product-cards.jpg)
 
-- **Detailed Footer:** Provide additional information in the footer section.
+- **Modal Video Player:** Engage your users with videos displayed in a modal player.
 
-- **Footer Navigation:** Easy navigation links in the footer.
+![Video Player](images/modal-video.jpg)
 
-- **Contact Form UI:** A user-friendly contact form for inquiries.
+- **Pricing Cards:** Effectively communicate your pricing plans in an attractive format.
 
-- **Pagination UI:** Implement pagination for your content.
+![Pricing Cards](images/pricing-cards.jpg)
 
-- **Sticky Top Navigation:** Keep the navigation bar accessible while scrolling.
+- **Testimonial Carousel:** Showcase customer testimonials in a dynamic carousel.
 
-- **Multilevel Dropdown:** Create dropdown menus with multiple levels.
+![Testimonial Carousel](images/testimonial-carousel.jpg)
 
-- **Call-to-action Buttons:** Encourage user engagement with call-to-action buttons.
+- **Gallery:** Impress your audience with an exquisite gallery showcasing images and media.
 
-- **Social Media Links & Icons:** Connect with your audience through social media.
+![Gallery](images/gallery.jpg)
 
-- **Multipage Design:** Suitable for multi-page educational websites.
+- **Detailed Footer:** Provide additional information and links in the comprehensive footer section.
 
-- **100% Responsive:** Ensures a seamless experience on all devices.
+![Footer](images/footer.jpg)
 
-- **Cross-browser Compatible:** Compatible with all major web browsers.
+- **User-Friendly Contact Form:** Make it easy for visitors to get in touch with a user-friendly contact form.
 
-- **Sass-supported Coding:** Easy customization with Sass.
+![Contact Form](images/contact-form.jpg)
 
-- **Clean Codebase:** Well-structured and organized code for developers.
+- **Pagination UI:** Implement intuitive pagination for your content.
+
+![Pagination](images/pagination.jpg)
+
+- **Sticky Top Navigation:** Keep the navigation bar accessible while scrolling for enhanced user experience.
+
+- **Multilevel Dropdown Menus:** Create dropdown menus with multiple levels for organized navigation.
+
+- **Call-to-action Buttons:** Encourage user engagement with eye-catching call-to-action buttons.
+
+![CTA Buttons](images/cta-buttons.jpg)
+
+- **Social Media Integration:** Connect with your audience through social media links and icons.
+
+![Social Media Icons](images/social-media.jpg)
+
+- **Multipage Design:** Suitable for multi-page educational websites, allowing you to organize and present your content effectively.
+
+![Multipage Design](images/multipage-design.jpg)
+
+- **100% Responsive:** Ensure a seamless user experience on all devices, from desktop to mobile.
+
+- **Cross-browser Compatible:** Rest assured that your site will work smoothly on all major web browsers.
+
+- **Sass-supported Coding:** Easily customize the styles with Sass-supported coding.
+
+- **Clean Codebase:** Enjoy a well-structured and organized codebase that's developer-friendly.
 
 ## In the Box
 
@@ -82,7 +112,7 @@ Learner is more than just a landing page; it's a comprehensive web solution tail
 
 2. Open the HTML files using a web browser to view the website locally.
 
-3. Customize the content, styles, and scripts to fit your educational website's needs.
+3. Customize the content, styles, and scripts to fit your educational website's unique needs.
 
 ## License
 
@@ -96,6 +126,8 @@ This project is licensed under the [MIT License](LICENSE).
 - Owl Carousel: [https://owlcarousel2.github.io/OwlCarousel2/](https://owlcarousel2.github.io/OwlCarousel2/)
 - Flaticon: [https://www.flaticon.com/](https://www.flaticon.com/)
 - Icomoon: [https://icomoon.io/](https://icomoon.io/)
+
+![Enjoy Learner](images/enjoy-learner.jpg)
 
 ---
 
