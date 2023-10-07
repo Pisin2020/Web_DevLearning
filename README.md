@@ -1,3 +1,4 @@
+
 # EduWeb - Empower Your Educational Website with EduWeb
 
 ![EduWeb Logo](images/eduweb-logo.png)
@@ -34,6 +35,7 @@ EduWeb stands out as a versatile and feature-rich platform designed to empower e
 
 - **Video Integration:** Engage users with embedded videos in a sleek modal player.
 
+
 - **Clear Pricing:** Clearly communicate your pricing plans with beautifully designed cards.
 
 - **Rave Reviews:** Display customer testimonials in a dynamic carousel for social proof.
@@ -54,17 +56,21 @@ EduWeb stands out as a versatile and feature-rich platform designed to empower e
 
 - **Multipage Ready:** Ideal for multi-page educational websites, allowing content organization.
 
+
 - **Responsive Design:** Ensure a seamless experience across all devices.
 
 - **Cross-browser Compatibility:** Compatible with all major web browsers.
+
 
 - **Sass-supported Customization:** Customize styles effortlessly with Sass-supported coding.
 
 - **Clean Codebase:** Developer-friendly, well-structured codebase for easy modification.
 
+
 ![Responsive Design](images/responsive-design.jpg)
 
 ## Included Content
+
 
 - **9 HTML Pages:** Ready-to-use pages to jumpstart your website.
 
@@ -86,11 +92,13 @@ EduWeb stands out as a versatile and feature-rich platform designed to empower e
 ## Getting Started
 
 
+
 1. Clone this repository to your local machine.
 
 2. Open the HTML files in your preferred code editor to start customization.
 
 3. Tailor the content, styles, and scripts to match your educational website's unique needs.
+
 
 ## License
 
@@ -106,6 +114,7 @@ This project is licensed under the [MIT License](LICENSE).
 - Icomoon: [https://icomoon.io/](https://icomoon.io/)
 
 
+
 ![EduWeb Community](images/eduweb-community.jpg)
 
 ---
@@ -113,3 +122,4 @@ This project is licensed under the [MIT License](LICENSE).
 EduWeb is more than just a website template; it's a platform for educational empowerment. Join our community and be part of the future of online learning.
 
 Start using EduWeb today and create an impactful educational website that leaves a lasting impression.
+
