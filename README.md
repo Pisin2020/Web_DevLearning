@@ -85,6 +85,7 @@ EduWeb stands out as a versatile and feature-rich platform designed to empower e
 
 ## Getting Started
 
+
 1. Clone this repository to your local machine.
 
 2. Open the HTML files in your preferred code editor to start customization.
@@ -103,6 +104,7 @@ This project is licensed under the [MIT License](LICENSE).
 - Owl Carousel: [https://owlcarousel2.github.io/OwlCarousel2/](https://owlcarousel2.github.io/OwlCarousel2/)
 - Flaticon: [https://www.flaticon.com/](https://www.flaticon.com/)
 - Icomoon: [https://icomoon.io/](https://icomoon.io/)
+
 
 ![EduWeb Community](images/eduweb-community.jpg)
 
